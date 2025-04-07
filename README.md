@@ -1,5 +1,5 @@
 🌦️ Weather Dashboard
-A sleek and interactive Weather Dashboard that provides real-time weather updates, a 5-day forecast, and dynamic features like geolocation, temperature unit toggle, and dark mode. Built with HTML, CSS, and JavaScript, and powered by the Here’s a **cool and professional `README.md`** file for your Weather Dashboard project:
+A sleek and interactive Weather Dashboard that provides real-time weather updates, a 5-day forecast, and dynamic features like geolocation, temperature unit toggle, and dark mode. Built with HTML, CSS, and JavaScript.
 
 ---
 
